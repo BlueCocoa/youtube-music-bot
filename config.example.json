@@ -1,0 +1,8 @@
+{
+  "token": "XXXXXXXXXXXXXXXXXXXXXx",
+  "music_dir": "music",
+  "max_filesize": 33554432,
+  "python3": "/usr/local/bin/python3",
+  "log_level": "info"
+}
+
